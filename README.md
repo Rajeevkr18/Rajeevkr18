@@ -5,12 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=rajeevkumar9065&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rajeevkr18&margin-w=15&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
+ 
 
 ## 📧 Contact Me
 - **Email:** [rajeevkumarsingh9065@gmail.com](mailto:rajeevkumarsingh9065@gmail.com)
@@ -44,14 +39,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajeevkr18&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajeevkr18&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+ 
 
 ## 📈 Competitive Programming Stats
 <p align="center">
