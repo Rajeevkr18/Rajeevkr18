@@ -5,9 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=rajeevkumar9065&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
- 
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rajeevkr18&margin-w=15&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
 
-## 📫 Contact Me
+## 📧 Contact Me
 - **Email:** [rajeevkumarsingh9065@gmail.com](mailto:rajeevkumarsingh9065@gmail.com)
 
 ## 🌐 Connect with Me
@@ -15,10 +20,10 @@
   <a href="https://www.codechef.com/users/rajeev1_8" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/rajeev_18" target="_blank">
+  <a href="https://codeforces.com/profile/Rajeev_18" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/rajeev_18/" target="_blank">
+  <a href="https://leetcode.com/u/Rajeev_18/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/rajeevkumar6tdc/" target="_blank">
@@ -48,7 +53,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rajeevkr18&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-## 📈 Leetcode Stats
+## 📈 Competitive Programming Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Rajeevkr18?theme=dark&font=Monospace" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Rajeev_18?theme=dark&font=Monospace" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Rajeev_18&theme=dark" alt="Codeforces Stats" />
+</p>
+
+<p align="center">
+  <img src="https://codechef-rating-api.vercel.app/api?user=rajeev1_8" alt="CodeChef Stats" />
 </p>
