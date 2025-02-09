@@ -5,12 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=rajeevkumar9065&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rajeevkr18&margin-w=15&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
+ 
 
 ## 📧 Contact Me
 - **Email:** [rajeevkumarsingh9065@gmail.com](mailto:rajeevkumarsingh9065@gmail.com)
