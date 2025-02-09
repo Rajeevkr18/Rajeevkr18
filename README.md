@@ -39,5 +39,16 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
- 
- 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajeevkr18&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajeevkr18&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+## 📈 Leetcode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Rajeevkr18?theme=dark&font=Monospace" alt="LeetCode Stats" />
+</p>
