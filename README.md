@@ -40,7 +40,4 @@
 </p>
 
  
-
-<p align="center">
-  <img src="https://github.com/Rajeevkr18" alt="GitHub Stats" />
-</p>
+ 
