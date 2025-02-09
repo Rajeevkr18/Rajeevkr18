@@ -8,7 +8,7 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rajeevkumar9065&margin-w=15&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Rajeevkr18&margin-w=15&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -50,5 +50,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeevkumar9065&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github.com/Rajeevkr18" alt="GitHub Stats" />
 </p>
