@@ -2,10 +2,8 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajeevkumar9065&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rajeev1_8&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
- 
 
 ## 📧 Contact Me
 - **Email:** [rajeevkumarsingh9065@gmail.com](mailto:rajeevkumarsingh9065@gmail.com)
@@ -41,11 +39,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajeevkr18&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeev1_8&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajeevkr18&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeev1_8&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 ## 📈 Competitive Programming Stats
