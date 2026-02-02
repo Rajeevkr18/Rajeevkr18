@@ -1,96 +1,126 @@
-<h1 align="center">Rajeev Kumar</h1>
-
-<h3 align="center">
-Passionate Software Engineer from India | MERN Stack Developer | Competitive Programmer
-</h3>
+<h1 align="center">Hi 👋, I'm Rajeev Kumar</h1>
+<h3 align="center">🚀 Software Engineer | MERN Stack Developer | DSA & Competitive Programming Enthusiast</h3>
 
 <p align="center">
-I am a motivated and detail-oriented Software Engineer with a strong foundation in 
-Data Structures & Algorithms and hands-on experience in building full-stack web applications.
-I enjoy solving real-world problems using clean, efficient code and continuously improving
-my skills through competitive programming and project-based learning.
+  <img src="https://komarev.com/ghpvc/?username=Rajeevkr18&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+- 💻 Software Engineer with strong MERN Stack experience  
+- 🧠 Solved **800+ DSA problems** across LeetCode, CodeChef & Codeforces  
+- 🏆 **3★ CodeChef** (Max Rating: 1721) | Codeforces Pupil (1339)  
+- 🔧 Experience with Docker, CI/CD, REST APIs & scalable systems  
+- 🎯 Passionate about building real-world, production-ready applications  
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajeevkumar9065&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/rajeevk18/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rajeev_Kumar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:rajeevkumarsingh9065@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Rajeevkr18" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Rajeevkr18-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
-<hr/>
+---
 
-<h2>📧 Contact Me</h2>
-
-<ul>
-  <li><strong>Email:</strong> <a href="mailto:rajeevkumarsingh9065@gmail.com">rajeevkumarsingh9065@gmail.com</a></li>
-</ul>
-
-<hr/>
-
-<h2>🌐 Connect with Me</h2>
+## 💻 Coding Profiles
 
 <p align="center">
-  <a href="https://www.codechef.com/users/rajeev1_8" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/Rajeev_18" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Rajeev_18/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-Rajeev_18-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  &nbsp;&nbsp;
+
+  <a href="https://www.codechef.com/users/rajeev1_8" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-3★_1721-5B4638?style=for-the-badge&logo=codechef" />
+  </a>
+
+  <a href="https://codeforces.com/profile/Rajeev_18" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Pupil_1339-1F8ACB?style=for-the-badge&logo=codeforces" />
+  </a>
+
   <a href="https://www.geeksforgeeks.org/user/rajeevkumar6tdc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Rajeev-green?style=for-the-badge&logo=geeksforgeeks" />
   </a>
 </p>
 
-<hr/>
+---
 
-<h2>🛠️ Languages & Tools</h2>
+# 📊 🚀 Live LeetCode Stats
 
 <p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+  <img src="https://leetcard.jacoblin.cool/Rajeev_18?theme=dark&font=Baloo" />
 </p>
 
-<hr/>
+---
 
-<h2>📈 Competitive Programming Stats</h2>
+## 🎯 Competitive Programming Highlights
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Rajeev_18?theme=dark&font=Monospace" alt="LeetCode Stats" />
+- ✅ **800+ Problems Solved**
+- ✅ **350+ LeetCode Problems**
+- ✅ Strong consistency & problem-solving mindset
+- ✅ Regular contest participation
+
+> *“Consistency and clarity build great engineers.”*
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,python,react,nodejs,express,mongodb,mysql,html,css,bootstrap,docker,git,github,aws" />
 </p>
 
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Rajeev_18&theme=dark" alt="Codeforces Stats" />
-</p>
+---
+
+## 🚀 Projects
+
+### 💰 Finance Flow – Finance Management System
+- Expense & income tracking
+- Authentication & dashboards
+- Dockerized MERN architecture  
+**Tech:** React, Node.js, MongoDB, Docker
+
+---
+
+### 🏥 Doctor Appointment System
+- Role-based access
+- Admin & patient dashboards  
+**Tech:** MERN Stack, Bootstrap, Ant Design
+
+---
+
+### 🧭 Pathfinding Visualizer
+- Visualizes shortest-path algorithms
+- Interactive UI  
+**Tech:** React.js, Algorithms
+
+---
+
+## 🏆 Achievements
+
+- ⭐ **3★ CodeChef** (Max Rating: 1721)
+- 🟣 Codeforces **Pupil** (1339)
+- 🧠 Solved **1000+ DSA problems**
+- 🏅 W3 Elites Training Completion
+
+---
+
+## ☕ Support Me
 
 <p align="center">
-  <img src="https://codechef-rating-api.vercel.app/api?user=rajeev1_8" alt="CodeChef Stats" />
+  <a href="https://www.buymeacoffee.com/rajeevkr18">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
+  </a>
 </p>
