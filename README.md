@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 - 💻 Software Engineer with strong MERN Stack experience  
-- 🧠 Solved **800+ DSA problems** across LeetCode, CodeChef & Codeforces  
+- 🧠 Solved **1000+ DSA problems** across LeetCode, CodeChef & Codeforces  
 - 🏆 **3★ CodeChef** (Max Rating: 1721) | Codeforces Pupil (1339)  
 - 🔧 Experience with Docker, CI/CD, REST APIs & scalable systems  
 - 🎯 Passionate about building real-world, production-ready applications  
