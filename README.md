@@ -67,7 +67,7 @@
 
 ## 🎯 Competitive Programming Highlights
 
-- ✅ **800+ Problems Solved**
+- ✅ **1000+ Problems Solved**
 - ✅ **350+ LeetCode Problems**
 - ✅ Strong consistency & problem-solving mindset
 - ✅ Regular contest participation
